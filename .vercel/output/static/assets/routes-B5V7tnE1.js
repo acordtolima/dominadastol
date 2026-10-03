@@ -1,0 +1,1 @@
+import{n as e,r as t,t as n}from"./index-DE0GXrSd.js";var r=t(e()),i=n();function a(){return(0,r.useEffect)(()=>{window.location.replace(`/dominadas.html`)},[]),(0,i.jsx)(`main`,{className:`juego-marco`,children:(0,i.jsx)(`p`,{className:`juego-aviso`,children:`Abriendo Dominadas…`})})}export{a as component};

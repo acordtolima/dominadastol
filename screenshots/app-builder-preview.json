@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Dominadas",
+      "hasCanvas": true,
+      "bodyTextLen": 172,
+      "bodyTextHash": "fe48cf2c8233c5215cccd0936fb45360ecd5c3c9b93dac9178a45b3b8dd0fb61",
+      "bodyTextPrefix": "DOMINADAS Toca el balón para subirlo. El lado del toque lo manda",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Dominadas",
+      "hasCanvas": true,
+      "bodyTextLen": 172,
+      "bodyTextHash": "fe48cf2c8233c5215cccd0936fb45360ecd5c3c9b93dac9178a45b3b8dd0fb61",
+      "bodyTextPrefix": "DOMINADAS Toca el balón para subirlo. El lado del toque lo manda",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
